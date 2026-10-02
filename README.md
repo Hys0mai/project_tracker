@@ -60,7 +60,7 @@ Then run:
 
 ```bash
 php artisan migrate
-php artisan db:seed
+php artisan db:seed     # this is optional if you want to add a data instantly
 php artisan serve
 ```
 
